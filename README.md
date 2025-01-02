@@ -1,4 +1,5 @@
-## Hi there 👋 :)
+## Hi there 👋
+I am a PrestaShop expert and an official member of PrestaShop committers team.
 
 <!--
 **ShaiMagal/ShaiMagal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
