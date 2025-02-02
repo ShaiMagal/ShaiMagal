@@ -1,9 +1,9 @@
 ## Hi there 👋
-I am a PrestaShop expert and an official member of PrestaShop committers team.
+I am a PrestaShop expert and an official member of the PrestaShop committers team.
 
-I have been working with PrestaShop for over 10 years.
+With over 10 years of experience, I specialize in developing and optimizing PrestaShop solutions.
 
-My main projects are:
+My main projects include:
 
 
 <a href="https://www.openservis.cz/en/">OpenServis</a>
