@@ -1,5 +1,6 @@
 ## Hi there 👋
 I am a PrestaShop expert and an official member of PrestaShop committers team.
+
 I have been working with PrestaShop for over 10 years.
 
 <!--
