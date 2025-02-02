@@ -4,8 +4,12 @@ I am a PrestaShop expert and an official member of PrestaShop committers team.
 I have been working with PrestaShop for over 10 years.
 
 My main projects are:
-OpenServis webhosting
-PSModuly
+
+
+<a href="https://www.openservis.cz/en/">OpenServis</a>
+
+<a href="https://psmoduly.cz/">PSModuly</a>
+
 <a href="https://smartmailer.cz/">SmartMailer</a>
 
 <!--
