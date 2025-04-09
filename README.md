@@ -1,5 +1,5 @@
 ## Hi there 👋
-I am a PrestaShop expert and an official member of the PrestaShop committers team.
+I am a PrestaShop expert and an official member of the PrestaShop <a href="https://www.prestashop-project.org/project-organization/people-and-roles/">committers team</a>.
 
 With over 15 years of experience, I specialize in developing and optimizing PrestaShop solutions.
 
