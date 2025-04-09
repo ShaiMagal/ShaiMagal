@@ -1,7 +1,7 @@
 ## Hi there 👋
 I am a PrestaShop expert and an official member of the PrestaShop committers team.
 
-With over 10 years of experience, I specialize in developing and optimizing PrestaShop solutions.
+With over 15 years of experience, I specialize in developing and optimizing PrestaShop solutions.
 
 My main projects include:
 
