@@ -10,7 +10,7 @@ My main projects include:
 
 <a href="https://psmoduly.cz/">PSModuly</a>
 
-<a href="https://smartmailer.cz/">SmartMailer</a>
+<a href="https://smartmailer.cz/en/">SmartMailer</a>
 
 <a href="https://www.prestahouse.eu/">PrestaHouse</a>
 
