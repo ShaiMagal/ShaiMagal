@@ -14,7 +14,7 @@ My main projects include:
 
 <a href="https://www.prestahouse.eu/">PrestaHouse</a>
 
-<a href="https://trackless.cz/">Track less. Get more</a>
+<a href="https://trackless.cz/">Trackless</a> - Track less. Get more.
 
 <!--
 **ShaiMagal/ShaiMagal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
