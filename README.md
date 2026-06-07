@@ -1,32 +1,50 @@
-## Hi there 👋
-I am a PrestaShop expert and an official member of the PrestaShop <a href="https://www.prestashop-project.org/project-organization/people-and-roles/">committers team</a>.
+# Dominik Shaim Ulrich
 
-With over 15 years of experience, I specialize in developing and optimizing PrestaShop solutions.
+PrestaShop developer, infrastructure engineer and member of the official PrestaShop Committers Team.
 
-My main projects include:
+For more than 15 years I have been building e-commerce solutions, hosting platforms and tools used by thousands of online stores.
 
+## Main Projects
 
-<a href="https://www.openservis.cz/en/">OpenServis</a>
+### 🚀 OpenServis
+Managed PrestaShop hosting platform focused on performance, security and automation.
 
-<a href="https://psmoduly.cz/">PSModuly</a>
+https://www.openservis.cz/en/
 
-<a href="https://smartmailer.cz/en/">SmartMailer</a>
+### 🛒 PSModuly
+One of the largest collections of PrestaShop modules in the Czech Republic.
 
-<a href="https://www.prestahouse.eu/">PrestaHouse</a>
+https://psmoduly.cz/
 
-<a href="https://trackless.cz/">Trackless</a> - Track less. Get more.
+### 📧 SmartMailer
+Email marketing and automation platform.
 
-<!--
-**ShaiMagal/ShaiMagal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+https://smartmailer.cz/en/
 
-Here are some ideas to get you started:
+### 🏠 PrestaHouse
+Premium PrestaShop themes and modules.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+https://www.prestahouse.eu/
+
+### 🍪 Trackless
+Cookie-less analytics platform.
+
+https://trackless.cz/
+
+## About Me
+
+- 🏆 PrestaShop Committers Team member
+- 💻 15+ years of PrestaShop development
+- ⚙️ Linux & server infrastructure enthusiast
+- 🚀 Founder of multiple SaaS and e-commerce projects
+- 🇨🇿 Based in Czech Republic
+
+## Technologies
+
+PHP • Symfony • MySQL • MariaDB • Linux • Nginx • Apache • Redis • Docker • PrestaShop
+
+## Contact
+
+🌐 https://www.openservis.cz
+
+📧 info@openservis.cz
