@@ -1,5 +1,7 @@
 # Dominik Shaim Ulrich
 
+Founder of OpenServis, PSModuly, SmartMailer and Trackless.
+
 PrestaShop developer, infrastructure engineer and member of the official PrestaShop Committers Team.
 
 For more than 15 years I have been building e-commerce solutions, hosting platforms and tools used by thousands of online stores.
