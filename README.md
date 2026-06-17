@@ -24,7 +24,7 @@ Email marketing and automation platform.
 https://smartmailer.cz/en/
 
 ### 🏠 PrestaHouse
-Premium PrestaShop themes and modules.
+English fork of PSModuly.cz.
 
 https://www.prestahouse.eu/
 
