@@ -18,20 +18,25 @@ One of the largest collections of PrestaShop modules in the Czech Republic.
 
 https://psmoduly.cz/
 
-### 📧 SmartMailer
-Email marketing and automation platform.
-
-https://smartmailer.cz/en/
-
 ### 🏠 PrestaHouse
 English fork of PSModuly.cz.
 
 https://www.prestahouse.eu/
 
+### 📧 SmartMailer
+Email marketing and automation platform.
+
+https://smartmailer.cz/en/
+
 ### 🍪 Trackless
 Cookie-less analytics platform.
 
-https://trackless.cz/
+https://trackless.cz/en/
+
+### 🚀 Forga
+Modern e-shop without additional fees
+
+https://forga.cz/
 
 ## About Me
 
