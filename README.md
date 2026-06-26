@@ -44,11 +44,11 @@ https://forga.cz/
 - 💻 15+ years of PrestaShop development
 - ⚙️ Linux & server infrastructure enthusiast
 - 🚀 Founder of multiple SaaS and e-commerce projects
-- :czech_republic: Based in the Czech Republic
+- 📍 Based in the Czech Republic
 
 ## Technologies
 
-PHP • Symfony • PrestaShop • WooCommerce • WordPress • MySQL • MariaDB • Linux • Nginx • Apache • Redis • Docker • Git • CI/CD • DNS • Mail servers • Coolify
+PHP • JavaScript • Symfony • Smarty • PrestaShop • WooCommerce • WordPress • REST API • SOAP • Composer • MySQL • MariaDB • Redis • Linux • Nginx • Apache • Docker • Coolify • Git • CI/CD • DNS • Mail servers • Playwright • PHPStan • Psalm • AI / LLM (Claude API)
 
 ## Contact
 
