@@ -1,6 +1,6 @@
 # Dominik Shaim Ulrich
 
-Founder of OpenServis, PSModuly, PrestaHouse, SmartMailer and Trackless.
+Founder of OpenServis, PSModuly, PrestaHouse, SmartMailer, Trackless and Forga.
 
 PrestaShop developer, infrastructure engineer and member of the official PrestaShop Committers Team.
 
@@ -33,7 +33,7 @@ Cookie-less analytics platform.
 
 https://trackless.cz/en/
 
-### 🚀 Forga
+### 🛒 Forga
 Modern e-shop without additional fees
 
 https://forga.cz/
@@ -48,7 +48,7 @@ https://forga.cz/
 
 ## Technologies
 
-PHP • Symfony • MySQL • MariaDB • Linux • Nginx • Apache • Redis • Docker • PrestaShop
+PHP • Symfony • PrestaShop • WooCommerce • WordPress • MySQL • MariaDB • Linux • Nginx • Apache • Redis • Docker • Git • CI/CD • DNS • Mail servers • Coolify
 
 ## Contact
 
