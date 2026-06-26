@@ -44,7 +44,7 @@ https://forga.cz/
 - 💻 15+ years of PrestaShop development
 - ⚙️ Linux & server infrastructure enthusiast
 - 🚀 Founder of multiple SaaS and e-commerce projects
-- 🇨🇿 Based in Czech Republic
+- :czech_republic: Based in the Czech Republic
 
 ## Technologies
 
